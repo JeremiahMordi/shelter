@@ -1,8 +1,12 @@
 >**AUTHOR**
 
 The author of this project is known by the name, Jeremiah Mordi. He is a seventeen year old who is studying at Adroitsoft.
-
->**The Animal Shelter Project**
+>**TECHNOLOGIES UTILISED**
+1. HTML.
+2. CSS.
+3. BOOTSTRAP.
+4. GIT
+>**The Animal Shelter Project****
 
 The project features a very unique practice site with the name of "The Tempest Foundation".
 
@@ -16,6 +20,4 @@ There are no known bugs in this project.
 
  https://jeremiahmordi.github.io/shelter/
 
- CONCLUSION
- 
- The project is completed and shows in summary, the experience of the creator.
+Thank you for viewing.
