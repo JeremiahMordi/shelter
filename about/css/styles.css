@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: grey;
+}
+.history-section{
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: grey;
+}
+
+.history-section img{
+    height: 1000px;
+    width: 800px;
+}
+
+h2.people-involved{
+    background-color: green;
+}
+
+ol{
+    background-color: green;
+}
+
+.concluding-section{
+    background-color: green;
+}
+
+a.contact{
+    color: blue;
+}
+
+a.contact:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
