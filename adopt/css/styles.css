@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    color: white;
+    background-color: green;
+    padding-bottom: 20px;
+}
+
+.concluding-section{
+    background-color: aquamarine;
+    padding-top: 20px;
+}
+
+.concluding-section p{
+    font-size: 20px;
+}
+
+a.email:hover{
+    text-decoration: underline;
+    font-style: italic;
+    color: blue;
+    cursor: pointer;
+}
+
+a.contact:hover{
+    text-decoration: underline;
+    font-style: italic;
+    color: blue;
+    cursor: pointer;
+}
