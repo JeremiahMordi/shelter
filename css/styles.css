@@ -49,3 +49,8 @@ p{
     font-size: 20px;
     font-style: italic;
 }
+
+.concluding-section a.contact:hover{
+    text-decoration: underline;
+    color: blue;
+}

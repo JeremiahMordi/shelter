@@ -8,9 +8,11 @@ The project features a very unique practice site with the name of "The Tempest F
 
 The project features a simple layout, with a background image and several other features like the cards expressing adoptable animals and a basic description of them.
 
-**BUGS**
+>**BUGS**
 
 There are no known bugs in this project.
+
+>**LINK**
 
  https://jeremiahmordi.github.io/shelter/
 
